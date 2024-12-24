@@ -22,6 +22,7 @@ $(function () {
     
     
     //===== Section Menu Active
+    //My first Js changePallavi 
 
     var scrollLink = $('.page-scroll');
     // Active link switching
